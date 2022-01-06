@@ -8,7 +8,7 @@ package com.company;
 //        Input (1, 1, true) -> 2
 
 
-public class Flowchart1 {
+public class FlowChart1 {
 
     int sum;
     int product;

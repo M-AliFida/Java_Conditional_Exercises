@@ -1,6 +1,6 @@
 package com.company;
 
-public class Flowchart2 {
+public class FlowChart2 {
     // takes input A (int) and prints statement (no need to return)
     public void flowchart (int a) {
         // decision point
